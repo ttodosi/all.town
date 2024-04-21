@@ -1,3 +1,1 @@
-There is to be one bell for every city and the number of bells is equal to the striking tolls of a single day. 
 
-The first bell is cast & insitu;
